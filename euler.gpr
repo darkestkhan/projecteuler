@@ -6,7 +6,7 @@ project Euler is
   for Exec_Dir use "bin";
   for Main use
     ( "euler_0001.adb", "euler_0002.adb", "euler_0003.adb", "euler_0004.adb",
-      "euler_0005.adb", "euler_0006.adb"
+      "euler_0005.adb", "euler_0006.adb", "euler_0007.adb"
     );
 
   package Compiler is
