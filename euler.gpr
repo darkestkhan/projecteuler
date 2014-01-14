@@ -7,7 +7,7 @@ project Euler is
   for Main use
     ( "euler_0001.adb", "euler_0002.adb", "euler_0003.adb", "euler_0004.adb",
       "euler_0005.adb", "euler_0006.adb", "euler_0007.adb", "euler_0008.adb",
-      "euler_0009.adb"
+      "euler_0009.adb", "euler_0010.adb"
     );
 
   package Compiler is
